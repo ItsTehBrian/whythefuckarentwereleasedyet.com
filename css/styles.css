@@ -29,3 +29,12 @@ h3 {
      font-size: 15px;
      line-height: 0.5;
 }
+
+.left-footer {
+    position: fixed;
+    bottom: 0px;
+    left: 10px;
+
+    font-size: 15px;
+    line-height: 0.5;
+}
