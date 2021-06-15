@@ -1,0 +1,31 @@
+body {
+    margin: 70px auto;
+    max-width: 650px;
+    padding: 0 20px;
+
+    background-color: #fcf9f9;
+    color: #444;
+
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+    line
+}
+
+.right-footer {
+     position: fixed;
+     bottom: 0px;
+     right: 10px;
+
+     font-size: 15px;
+     line-height: 0.5;
+}
