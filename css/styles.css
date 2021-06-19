@@ -1,9 +1,12 @@
+html {
+    background-color: #eee;
+}
+
 body {
     margin: 70px auto;
     max-width: 650px;
     padding: 0 20px;
 
-    background-color: #eee;
     color: #444;
 
     font-size: 18px;
