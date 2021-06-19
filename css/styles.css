@@ -21,18 +21,14 @@ h3 {
 }
 
 .right-footer {
-     position: fixed;
-     bottom: 0px;
-     right: 10px;
+    float: right;
 
-     font-size: 15px;
-     line-height: 0.5;
+    font-size: 15px;
+    line-height: 0.5;
 }
 
 .left-footer {
-    position: fixed;
-    bottom: 0px;
-    left: 10px;
+    float: left;
 
     font-size: 15px;
     line-height: 0.5;
